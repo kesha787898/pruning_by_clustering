@@ -1,0 +1,7 @@
+numpy
+pandas
+torchvision
+torchsummary
+torch
+tqdm
+pytorch-lightning
